@@ -1,0 +1,10 @@
+name: gmodds builder
+description: helpful scripts
+authors: ["smokingplaya"]
+runner: cmd
+
+presets:
+  default:
+    execute:
+      - cls
+      - cargo r

@@ -1,0 +1,8 @@
+{
+  "files.exclude": {
+    "**/.git": true,
+    "**/.uki": true,
+    "**/.vscode": true,
+    "**/target": true,
+  }
+}
